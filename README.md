@@ -2,7 +2,7 @@
 
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=Eugeniocode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugeniocode&theme=merko&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugeniocode&layout=compact)
 
 
 ![](http://antzuhl.cn:4000/get/@Eugeniocode)
