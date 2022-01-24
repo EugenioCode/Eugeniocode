@@ -12,6 +12,9 @@
 ## Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugeniocode&layout=compact)
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+   ```
   <!--END_SECTION:waka-->
 
 ### platform&tools
