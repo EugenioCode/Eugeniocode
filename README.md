@@ -3,8 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Eugeniocode&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently working on **NanJing**.
-- 🌱 I’m currently learning **NodeJs** , **LowCode** and **Vue3**.
-- 💬 Ask me about Java technology.
+- 🌱 I’m currently learning **NodeJs** and **Vue3**.
 - ⚡ Fun fact: 
   - Puzzle model.
   - Watch anime.
