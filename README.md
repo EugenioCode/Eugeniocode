@@ -35,7 +35,7 @@
 
 ### Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=Eugeniocode&color=blue)
-[![Gmail Badge](https://img.shields.io/badge/gmail-eugeniocode@yeah.net-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:eugeniocode@yeah.net)](mailto:eugeniocode@yeah.net)
+[![Gmail Badge](https://img.shields.io/badge/mail-eugeniocode@yeah.net-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:eugeniocode@yeah.net)](mailto:eugeniocode@yeah.net)
 <!--
 **EugenioCode/Eugeniocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
