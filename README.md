@@ -2,9 +2,9 @@
 
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=Eugeniocode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=Eugeniocode)
 
-![](http://antzuhl.cn:4000/get/@antzuhl.readme)
+![](http://antzuhl.cn:4000/get/@Eugeniocode)
 
 <!--
 **EugenioCode/Eugeniocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
