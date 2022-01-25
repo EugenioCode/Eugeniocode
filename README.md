@@ -10,7 +10,7 @@
   - Play Nintendo Switch.
 
 ## Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugeniocode&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EugenioCode&layout=compact)
 
 
 ### platform&tools
