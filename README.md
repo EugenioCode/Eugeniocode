@@ -39,10 +39,7 @@
 [![Gmail Badge](https://img.shields.io/badge/mail-eugeniocode@yeah.net-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:eugeniocode@yeah.net)](mailto:eugeniocode@yeah.net)
 
 
-
 <!--START_SECTION:waka-->
-```text
-```
 <!--END_SECTION:waka-->
 
 
