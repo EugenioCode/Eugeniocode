@@ -11,12 +11,9 @@
 
 ## Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugeniocode&layout=compact)
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-   ```
-  <!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 ### platform&tools
 
 [![macOS](https://img.shields.io/badge/PC-Macbookpro-success?style=flat-square&logo=apple&logoColor=ffffff)]()
