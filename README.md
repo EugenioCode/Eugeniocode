@@ -39,6 +39,7 @@
 [![Gmail Badge](https://img.shields.io/badge/mail-eugeniocode@yeah.net-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:eugeniocode@yeah.net)](mailto:eugeniocode@yeah.net)
 
 
+### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 Other        8 hrs 48 mins   ████████████████████████░   95.96 % 
@@ -46,5 +47,5 @@ Liquid       9 mins          ▒░░░░░░░░░░░░░░░░
 Vue.js       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
-<!-- END_SECTION:waka -->
+<!--END_SECTION:waka-->
 
