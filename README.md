@@ -1,4 +1,4 @@
-## Hi! 👋
+## Hello Friends 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=Eugeniocode&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
@@ -9,11 +9,9 @@
   - Watch anime.
   - Play Nintendo Switch.
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugeniocode)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### platform&tools
+### 工具 | tools
 
 [![macOS](https://img.shields.io/badge/PC-Macbookpro-success?style=flat-square&logo=apple&logoColor=ffffff)]()
 [![IOS](https://img.shields.io/badge/MOBILE-iPhone-ff69b4?style=flat-square&logo=apple&logoColor=ffffff)]()
@@ -21,6 +19,7 @@
 [![chrome](https://img.shields.io/badge/BROWSER-Chrome-orange?style=flat-square&logo=googlechrome&logoColor=ffffff)]()
 [![safari](https://img.shields.io/badge/BROWSER-Safari-yellow?style=flat-square&logo=safari&logoColor=ffffff)]()
 
+### 技术栈 | Tech Stack
 [![html5](https://img.shields.io/badge/-HTML5-F16528?style=flat-square&logo=html5&logoColor=ffffff)]()
 [![css3](https://img.shields.io/badge/-CSS3-3699D5?style=flat-square&logo=css3&logoColor=ffffff)]()
 [![js](https://img.shields.io/badge/-Javascript-F0DA50?style=flat-square&logo=javascript&logoColor=ffffff)]()
@@ -30,7 +29,7 @@
 [![node](https://img.shields.io/badge/-Node.js-80BD00?style=flat-square&logo=nodedotjs&logoColor=ffffff)]()
 [![git](https://img.shields.io/badge/-Git-F05133?style=flat-square&logo=git&logoColor=ffffff)]()
 
-### game
+### 兴趣爱好
 
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 
