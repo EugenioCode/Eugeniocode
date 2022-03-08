@@ -40,8 +40,6 @@
 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2049%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -71,6 +69,6 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 07/03/2022 01:13:48 UTC
+ Last Updated on 08/03/2022 01:11:36 UTC
 <!--END_SECTION:waka-->
 
