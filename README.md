@@ -26,6 +26,7 @@
 [![js](https://img.shields.io/badge/-Javascript-F0DA50?style=flat-square&logo=javascript&logoColor=ffffff)]()
 [![ts](https://img.shields.io/badge/-Typescript-083061?style=flat-square&logo=typescript&logoColor=ffffff)]()
 [![vue](https://img.shields.io/badge/-Vue.js-3DB784?style=flat-square&logo=vuedotjs&logoColor=ffffff)]()
+[![nuxt](https://img.shields.io/badge/-Nuxt.js-3DB784?style=flat-square&logo=nuxtdotjs&logoColor=ffffff)]()
 [![npm](https://img.shields.io/badge/-NPM-CD3939?style=flat-square&logo=npm&logoColor=ffffff)]()
 [![node](https://img.shields.io/badge/-Node.js-80BD00?style=flat-square&logo=nodedotjs&logoColor=ffffff)]()
 [![git](https://img.shields.io/badge/-Git-F05133?style=flat-square&logo=git&logoColor=ffffff)]()
