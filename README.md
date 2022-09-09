@@ -15,7 +15,8 @@
 
 [![macOS](https://img.shields.io/badge/PC-Macbookpro-success?style=flat-square&logo=apple&logoColor=ffffff)]()
 [![IOS](https://img.shields.io/badge/MOBILE-iPhone-ff69b4?style=flat-square&logo=apple&logoColor=ffffff)]()
-[![vscode](https://img.shields.io/badge/IED-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=ffffff)]()
+[![vscode](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=ffffff)]()
+[![webstorm](https://img.shields.io/badge/IDE-webstorm-528DD7?logo=webstorm&logoColor=#ffffff)]()
 [![chrome](https://img.shields.io/badge/BROWSER-Chrome-orange?style=flat-square&logo=googlechrome&logoColor=ffffff)]()
 [![safari](https://img.shields.io/badge/BROWSER-Safari-yellow?style=flat-square&logo=safari&logoColor=ffffff)]()
 
