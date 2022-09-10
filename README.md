@@ -42,7 +42,7 @@
 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2029%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -69,6 +69,6 @@ Swift                    1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 09/09/2022 03:19:52 UTC
+ Last Updated on 10/09/2022 00:56:39 UTC
 <!--END_SECTION:waka-->
 
