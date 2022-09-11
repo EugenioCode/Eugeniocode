@@ -42,19 +42,25 @@
 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-707%20hrs%2054%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 35 mins       ██████████████░░░░░░░░░░░   58.63% 
+Vue.js                   1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   23.32% 
+TypeScript               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.62% 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  2 hrs 35 mins       ██████████████░░░░░░░░░░░   58.63% 
+WebStorm                 1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   40.02% 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
@@ -69,6 +75,6 @@ Swift                    1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 10/09/2022 00:56:39 UTC
+ Last Updated on 11/09/2022 00:55:14 UTC
 <!--END_SECTION:waka-->
 
