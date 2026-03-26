@@ -39,15 +39,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   14 hrs 29 mins      ████████████████░░░░░░░░░   65.34 % 
-TypeScript               2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-JavaScript               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Vue.js                   14 hrs 48 mins      ████████████████░░░░░░░░░   64.15 % 
+JavaScript               2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+TypeScript               2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-Trae                     22 hrs 7 mins       █████████████████████████   99.74 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Trae                     23 hrs              █████████████████████████   99.75 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
 
