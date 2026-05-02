@@ -39,10 +39,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.87 % 
-JavaScript               2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.81 % 
-Vue                      1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-EJS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JSON                     2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.89 % 
+JavaScript               2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.83 % 
+Vue                      1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+EJS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
