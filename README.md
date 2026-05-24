@@ -33,6 +33,23 @@
 
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue                      16 hrs 10 mins      ███████████████░░░░░░░░░░   61.60 % 
+JSON                     2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+JavaScript               2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+CSS                      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+TypeScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+
+🔥 Editors: 
+Trae                     26 hrs 3 mins       █████████████████████████   99.27 % 
+Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+```
+
 
 <!--END_SECTION:waka-->
 
