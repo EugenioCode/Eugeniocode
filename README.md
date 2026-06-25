@@ -39,15 +39,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      7 hrs 7 mins        ████████████████░░░░░░░░░   63.13 % 
-JavaScript               1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Liquid                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Vue                      6 hrs 36 mins       █████████████░░░░░░░░░░░░   50.54 % 
+JavaScript               4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.74 % 
+Liquid                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-Trae                     10 hrs 42 mins      ████████████████████████░   94.95 % 
-Claude Code              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Trae                     12 hrs 57 mins      █████████████████████████   98.98 % 
+Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 
