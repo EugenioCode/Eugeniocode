@@ -39,14 +39,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      1 hr 59 mins        ████████████████████████░   96.03 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     2 hrs 2 mins        █████████████████████████   99.07 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+No Activity Tracked This Week
 ```
 
 
