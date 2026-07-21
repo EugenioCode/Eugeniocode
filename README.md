@@ -39,12 +39,12 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      5 hrs 23 mins       █████████████████████████   98.02 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Vue                      8 hrs 27 mins       ████████████████████████░   95.83 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Trae                     5 hrs 30 mins       █████████████████████████   100.00 % 
+Trae                     8 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
