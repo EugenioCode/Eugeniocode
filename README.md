@@ -33,20 +33,44 @@
 
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2027%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      17 hrs 7 mins       ██████████████████████░░░   87.81 % 
-Fluent                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Vue                      12 hrs 43 mins      ██████████████████░░░░░░░   70.72 % 
+HTML                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Fluent                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Trae                     19 hrs 30 mins      █████████████████████████   100.00 % 
+Trae                     17 hrs 59 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 mins (0.78%)
+
+✍️ 1,529 lines written by AI, 5,536 lines written by hand (21.64% AI-written)
+
+🔤 379,837 Input Tokens, 36,935 Output Tokens
+
+💵 $3.01 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+GPT                      1,529 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 21.64% of written lines came from AI
+📝 Concise Prompter — average 26 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 84.85% of changed lines were hand-edited
 ```
 
 
