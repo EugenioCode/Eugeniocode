@@ -41,22 +41,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      14 hrs 21 mins      ███████████████████░░░░░░   74.13 % 
-HTML                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Fluent                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Vue                      16 hrs 19 mins      ███████████████████░░░░░░   75.34 % 
+HTML                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Fluent                   2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Trae                     19 hrs 21 mins      █████████████████████████   100.00 % 
+Trae                     21 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (0.72%)
+⏱ AI Coding Time: 8 mins (0.65%)
 
-✍️ 1,529 lines written by AI, 4,272 lines written by hand (26.36% AI-written)
+✍️ 1,529 lines written by AI, 4,332 lines written by hand (26.09% AI-written)
 
 🔤 379,837 Input Tokens, 36,935 Output Tokens
 
@@ -67,10 +67,10 @@ Trae                     19 hrs 21 mins      ███████████�
 GPT                      1,529 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.36% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 26.09% of written lines came from AI
 📝 Concise Prompter — average 50 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 82.85% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 84.11% of changed lines were hand-edited
 ```
 
 
