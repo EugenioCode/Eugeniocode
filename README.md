@@ -33,7 +33,46 @@
 
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2047%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue                      12 hrs 50 mins      ███████████████████░░░░░░   76.48 % 
+HTML                     2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Fluent                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+
+🔥 Editors: 
+Trae                     16 hrs 31 mins      █████████████████████████   98.46 % 
+Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 20 mins (1.99%)
+
+✍️ 0 lines written by AI, 2,665 lines written by hand (0.0% AI-written)
+
+🔤 1,004,704 Input Tokens, 44,681 Output Tokens
+
+💵 $6.36 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 389 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
 
 
 <!--END_SECTION:waka-->
