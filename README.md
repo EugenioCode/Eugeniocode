@@ -41,23 +41,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      12 hrs 50 mins      ███████████████████░░░░░░   76.48 % 
-HTML                     2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Fluent                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Vue                      10 hrs 58 mins      ████████████████████░░░░░   80.65 % 
+JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Trae                     16 hrs 31 mins      █████████████████████████   98.46 % 
-Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Trae                     13 hrs 20 mins      █████████████████████████   98.10 % 
+Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (1.99%)
+⏱ AI Coding Time: 20 mins (2.46%)
 
-✍️ 0 lines written by AI, 2,665 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,936 lines written by hand (0.0% AI-written)
 
 🔤 1,004,704 Input Tokens, 44,681 Output Tokens
 
