@@ -41,35 +41,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      7 hrs 30 mins       ███████████████████░░░░░░   74.36 % 
-JSON                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Vue                      8 hrs 38 mins       ████████████████████░░░░░   79.36 % 
+JSON                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Fluent                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-Trae                     9 hrs 50 mins       ████████████████████████░   97.43 % 
-Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Trae                     10 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (2.79%)
-
-✍️ 0 lines written by AI, 2,082 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 7 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
