@@ -33,7 +33,7 @@
 
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%201%20min-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -41,19 +41,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      11 hrs 37 mins      ██████████████████████░░░   88.30 % 
-JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Fluent                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Vue                      10 hrs 19 mins      █████████████████████░░░░   83.45 % 
+JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Liquid                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-Trae                     13 hrs 9 mins       █████████████████████████   100.00 % 
+Trae                     11 hrs 15 mins      ███████████████████████░░   90.98 % 
+Codex Vscode             53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 27 mins (11.8%)
+
+✍️ 788 lines written by AI, 2,017 lines written by hand (28.09% AI-written)
+
+🔤 519,062 Input Tokens, 77,824 Output Tokens
+
+💵 $11.38 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 13 AI Prompts
+
+GPT                      788 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 28.09% of written lines came from AI
+📝 Concise Prompter — average 386 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 83.83% of changed lines were hand-edited
 ```
 
 
