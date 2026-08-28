@@ -41,38 +41,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      14 hrs 43 mins      ██████████████░░░░░░░░░░░   57.72 % 
-Markdown                 2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Other                    2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-OpenSCAD                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-HTML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Vue                      16 hrs 52 mins      ████████████████░░░░░░░░░   64.48 % 
+Other                    2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Markdown                 2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+OpenSCAD                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 🔥 Editors: 
-Trae                     19 hrs 7 mins       ███████████████████░░░░░░   74.98 % 
-Codex Vscode             6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+Trae                     22 hrs 23 mins      █████████████████████░░░░   85.51 % 
+Codex Vscode             3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 50 mins (38.56%)
+⏱ AI Coding Time: 6 hrs 32 mins (25.01%)
 
-✍️ 2,310 lines written by AI, 4,002 lines written by hand (36.6% AI-written)
+✍️ 1,042 lines written by AI, 4,342 lines written by hand (19.35% AI-written)
 
-🔤 16,421,357 Input Tokens, 526,058 Output Tokens
+🔤 10,564,852 Input Tokens, 405,242 Output Tokens
 
-💵 $90.75 Estimated AI Cost This Week
+💵 $51.03 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 113 AI Prompts
+🧠 8 AI Sessions, 69 AI Prompts
 
-GPT                      2,632 lines         █████████████████████████   100.00 % 
+GPT                      1,078 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.6% of written lines came from AI
-📚 Verbose Prompter — average 7,954 characters per prompt
+🧑‍💻 Mostly Hands-On — 19.35% of written lines came from AI
+📚 Verbose Prompter — average 8,868 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 64.31% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 83.05% of changed lines were hand-edited
 ```
 
 
