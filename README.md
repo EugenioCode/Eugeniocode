@@ -41,23 +41,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      10 hrs 29 mins      ███████████░░░░░░░░░░░░░░   43.19 % 
-EJS                      4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-HTML                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-JSON                     2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Liquid                   1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Vue                      9 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.84 % 
+EJS                      5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+JSON                     2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Liquid                   1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+JavaScript               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 🔥 Editors: 
-Trae                     23 hrs 9 mins       ████████████████████████░   95.31 % 
-Codex Vscode             1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Trae                     21 hrs 53 mins      ████████████████████████░   95.05 % 
+Codex Vscode             1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 35 mins (6.52%)
+⏱ AI Coding Time: 1 hr 35 mins (6.88%)
 
-✍️ 9,565 lines written by AI, 1,382 lines written by hand (87.38% AI-written)
+✍️ 9,565 lines written by AI, 1,383 lines written by hand (87.37% AI-written)
 
 🔤 1,047,217 Input Tokens, 372,230 Output Tokens
 
@@ -68,10 +68,10 @@ Codex Vscode             1 hr 8 mins         █░░░░░░░░░░�
 GPT                      9,565 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.38% of written lines came from AI
+🤖 AI-Driven — 87.37% of written lines came from AI
 📝 Concise Prompter — average 132 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 14.64% of changed lines were hand-edited
+🚀 High AI Trust — 14.12% of changed lines were hand-edited
 ```
 
 
