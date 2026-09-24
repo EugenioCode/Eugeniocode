@@ -41,35 +41,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      6 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.76 % 
-EJS                      5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-JSON                     2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-JavaScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-HTML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Vue                      6 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.72 % 
+EJS                      2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+JSON                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 🔥 Editors: 
-Trae                     18 hrs 40 mins      ████████████████████████░   97.68 % 
-Codex Vscode             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Trae                     11 hrs 58 mins      ████████████████████████░   96.42 % 
+Codex Vscode             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (3.2%)
+⏱ AI Coding Time: 36 mins (4.92%)
 
-✍️ 713 lines written by AI, 1,110 lines written by hand (39.11% AI-written)
+✍️ 713 lines written by AI, 692 lines written by hand (50.75% AI-written)
 
 🔤 209,469 Input Tokens, 29,809 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.11% of written lines came from AI
-📝 Concise Prompter — average 92 characters per prompt
+⚖️ Balanced with AI — 50.75% of written lines came from AI
+📝 Concise Prompter — average 82 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 64.39% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 54.21% of changed lines were hand-edited
 ```
 
 
