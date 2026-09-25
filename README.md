@@ -41,23 +41,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      6 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.72 % 
-EJS                      2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-JSON                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Vue                      3 hrs 48 mins       ████████████░░░░░░░░░░░░░   47.31 % 
+TypeScript               55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+JSON                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+JavaScript               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+EJS                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🔥 Editors: 
-Trae                     11 hrs 58 mins      ████████████████████████░   96.42 % 
-Codex Vscode             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Trae                     7 hrs 37 mins       ████████████████████████░   94.49 % 
+Codex Vscode             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (4.92%)
+⏱ AI Coding Time: 36 mins (7.58%)
 
-✍️ 713 lines written by AI, 692 lines written by hand (50.75% AI-written)
+✍️ 713 lines written by AI, 613 lines written by hand (53.77% AI-written)
 
 🔤 209,469 Input Tokens, 29,809 Output Tokens
 
@@ -66,10 +66,10 @@ Codex Vscode             26 mins             █░░░░░░░░░░�
 🧠 3 AI Sessions, 6 AI Prompts
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.75% of written lines came from AI
+⚖️ Balanced with AI — 53.77% of written lines came from AI
 📝 Concise Prompter — average 82 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 54.21% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 51.03% of changed lines were hand-edited
 ```
 
 
