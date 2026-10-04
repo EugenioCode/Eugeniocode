@@ -41,24 +41,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Liquid                   5 hrs 50 mins       █████████████░░░░░░░░░░░░   53.52 % 
-Vue                      2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-EJS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Liquid                   5 hrs 50 mins       █████████████░░░░░░░░░░░░   53.67 % 
+Vue                      2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+EJS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.20 % 
-Trae                     3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
-VS Code                  2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+Codex Vscode             4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
+Trae                     3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.18 % 
+VS Code                  2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 23 mins (58.67%)
+⏱ AI Coding Time: 6 hrs 23 mins (58.83%)
 
-✍️ 4,914 lines written by AI, 295 lines written by hand (94.34% AI-written)
+✍️ 4,914 lines written by AI, 286 lines written by hand (94.5% AI-written)
 
 🔤 5,734,218 Input Tokens, 192,242 Output Tokens
 
@@ -69,10 +69,10 @@ VS Code                  2 hrs 41 mins       ██████░░░░░�
 GPT                      4,991 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.34% of written lines came from AI
+🤖 AI-Driven — 94.5% of written lines came from AI
 📄 Detailed Prompter — average 1,072 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 9.65% of changed lines were hand-edited
+🚀 High AI Trust — 9.5% of changed lines were hand-edited
 ```
 
 
