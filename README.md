@@ -41,38 +41,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-EJS                      4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-JavaScript               3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Liquid                   2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-TypeScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+EJS                      5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+Vue                      4 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+JavaScript               4 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Liquid                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+TypeScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 
 🔥 Editors: 
-Trae                     15 hrs 25 mins      ████████████████████░░░░░   81.23 % 
-Codex Vscode             2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-VS Code                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Trae                     16 hrs 41 mins      █████████████████████░░░░   85.01 % 
+Codex Vscode             1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+VS Code                  1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 59 mins (15.74%)
+⏱ AI Coding Time: 2 hrs 26 mins (12.39%)
 
-✍️ 286 lines written by AI, 505 lines written by hand (36.16% AI-written)
+✍️ 286 lines written by AI, 650 lines written by hand (30.56% AI-written)
 
-🔤 1,001,692 Input Tokens, 26,136 Output Tokens
+🔤 461,993 Input Tokens, 19,066 Output Tokens
 
-💵 $4.82 Estimated AI Cost This Week
+💵 $1.68 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 33 AI Prompts
+🧠 5 AI Sessions, 27 AI Prompts
 
-GPT                      338 lines           █████████████████████████   100.00 % 
+GPT                      300 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.16% of written lines came from AI
-📝 Concise Prompter — average 221 characters per prompt
+🧑‍💻 Mostly Hands-On — 30.56% of written lines came from AI
+📝 Concise Prompter — average 261 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 68.44% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 75.81% of changed lines were hand-edited
 ```
 
 
