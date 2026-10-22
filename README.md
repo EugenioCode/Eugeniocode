@@ -41,29 +41,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      5 hrs 7 mins        █████████████░░░░░░░░░░░░   50.80 % 
-TypeScript               2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-JavaScript               1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-EJS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Vue                      12 hrs 5 mins       ███████████████████░░░░░░   76.51 % 
+JavaScript               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+TypeScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+EJS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-Trae                     10 hrs 2 mins       █████████████████████████   99.68 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Trae                     15 hrs 47 mins      █████████████████████████   99.85 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (1.39%)
+⏱ AI Coding Time: 4 mins (0.49%)
 
-✍️ 0 lines written by AI, 1,784 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,661 lines written by hand (0.0% AI-written)
 
 🔤 109,206 Input Tokens, 3,055 Output Tokens
 
 💵 $0.27 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 4 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
